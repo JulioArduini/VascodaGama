@@ -27,7 +27,7 @@ for (let dado of dados) {
                 <a href="#" target="_blank">${dado.titulo}</a>
             </h2>
             <p class="descricao-meta">${dado.descricao}
-            </p.
+            </p>
                 <a href=${dado.link} target= "_black">Mais informações</a>   
         </div>    
 `;
